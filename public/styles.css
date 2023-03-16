@@ -1,0 +1,18 @@
+/* styles.css */
+.flower-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+/* Add styles for flower petals, center, and other visual elements */
+.flower {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #f5f5f5;
+    position: relative;
+}
