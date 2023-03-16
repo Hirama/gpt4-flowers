@@ -27,3 +27,6 @@ To use the visualization, open the `index.html` file in a web browser.
 ## License
 
 This project is open-source and available for modification and redistribution under the terms of the MIT License.
+
+## Try on Vercel
+https://gpt4-flowers.vercel.app/
